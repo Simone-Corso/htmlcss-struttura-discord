@@ -28,10 +28,15 @@ section#due-colonn{
     align-items: center;
     justify-content: center;
 }
-section#due-colonn > section {
-    width: 50%;
+section#due-colonn > aside {
+    width: 70%;
     height: 80%;
-    background-color: #ee82ee;
+    background-color: #1e90ff;
+}
+section#due-colonn > section {
+    width: 30%;
+    height: 80%;
+    background-color: #ffc0cb;
 }
 
 
