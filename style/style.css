@@ -121,7 +121,7 @@ section#sesto-diverse-colonn{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #d3d3d3;
+    background-color: #23272a;
     
 }
 
@@ -129,7 +129,7 @@ section#sesto-diverse-colonn > aside:nth-child(1n) {
     width: 20%;
     height: 95%;
     
-    background-color: #004f00;
+    background-color: #f08080;
 }
 section#sesto-diverse-colonn > aside:nth-child(2n) {
     width: 10%;
