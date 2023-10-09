@@ -3,8 +3,17 @@
     padding: 0;
     box-sizing: border-box;
 }
+section#mono-colonn > *{
+    height: 100%
+}
+
 
 section#mono-colonn{
     height: 600px;
     background-color: #00008b;
+}
+section#mono-colonn > section {
+    width: 20%;
+    height: 60%;
+    background-color: orange;
 }
