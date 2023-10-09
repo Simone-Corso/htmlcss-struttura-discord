@@ -11,6 +11,9 @@ section#mono-colonn > *{
 section#mono-colonn{
     height: 600px;
     background-color: #00008b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 section#mono-colonn > section {
     width: 20%;
@@ -18,11 +21,7 @@ section#mono-colonn > section {
     background-color: orange;
 }
 
-.box{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
+
 
 .box div {
     width: 100px;
