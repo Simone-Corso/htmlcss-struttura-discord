@@ -58,12 +58,12 @@ section#tre-colonn{
 }
 
 section#tre-colonn > aside:first-child {
-    width: 40%;
-    height: 60%;
-    background-color: #1e90ff;
-}
-section#tre-colonn > aside:last-child {
     width: 20%;
     height: 60%;
     background-color: #ffc0cb;
+}
+section#tre-colonn > aside:last-child {
+    width: 40%;
+    height: 60%;
+    background-color: #1e90ff;
 }
