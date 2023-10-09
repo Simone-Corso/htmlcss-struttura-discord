@@ -22,7 +22,6 @@ section#mono-colonn > aside {
 
 section#due-colonn{
     height: 600px;
-    background-color: red;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -33,9 +32,15 @@ section#due-colonn > aside {
     height: 80%;
     background-color: #92fb00;
 }
+section#due-colonn > aside{
+    height: 80%;
+    width: 35%;
+    background-color: #1e90ff;
+
+
+}
 section#tre-colonn{
     height: 600px;
-    background-color: green;
     display: flex;
     align-items: center;
     justify-content: center;
