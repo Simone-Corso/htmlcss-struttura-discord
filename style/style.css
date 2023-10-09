@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+section#mono-colonn{
+    display: flex;
+    height: 600px;
+    background-color: #00008b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section#mono-colonn > aside{
+    height: 80%;
+    width: 50%;
+    background-color: #ee82ee;
+    
+}
