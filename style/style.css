@@ -21,6 +21,14 @@ section#mono-colonn > section {
     background-color: #ee82ee;
 }
 
+section#due-colonn{
+    height: 600px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 
 
 
