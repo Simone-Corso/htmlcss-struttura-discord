@@ -16,15 +16,12 @@ section#mono-colonn{
     justify-content: center;
 }
 section#mono-colonn > section {
-    width: 20%;
-    height: 60%;
-    background-color: orange;
+    width: 50%;
+    height: 80%;
+    background-color: #ee82ee;
 }
 
 
 
-.box div {
-    width: 100px;
-    height: 100px;
-}
+
 
