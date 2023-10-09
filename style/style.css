@@ -19,6 +19,7 @@ section#mono-colonn > aside {
     width: 50%;
     height: 80%;
     background-color: #ee82ee;
+    border: Dashed;
 }
 
 section#due-colonn > *{
@@ -38,11 +39,13 @@ section#due-colonn > aside:first-child {
     width: 40%;
     height: 60%;
     background-color: #1e90ff;
+    border: Dashed;
 }
 section#due-colonn > aside:last-child {
     width: 20%;
     height: 60%;
     background-color: #ffc0cb;
+    border: Dashed;
 }
 section#tre-colonn > *{
     height: 100%;
@@ -62,11 +65,13 @@ section#tre-colonn > aside:first-child {
     width: 20%;
     height: 60%;
     background-color: #ffc0cb;
+    border: Dashed;
 }
 section#tre-colonn > aside:last-child {
     width: 40%;
     height: 60%;
     background-color: #1e90ff;
+    border: Dashed;
 }
 section#quarto-colonn > *{
     height: 100%;
@@ -85,11 +90,13 @@ section#quarto-colonn > aside:first-child {
     width: 40%;
     height: 60%;
     background-color: #1e90ff;
+    border: Dashed;
 }
 section#quarto-colonn > aside:last-child {
     width: 20%;
     height: 60%;
     background-color: #ffc0cb;
+    border: Dashed;
 }
 
 section#quinto-colonn > *{
@@ -110,6 +117,7 @@ section#quinto-colonn > aside:first-child {
     width: 60%;
     height: 90%;
     background-color: #228b22;
+    border: Dashed;
 }
 section#sesto-diverse-colonn > *{
     height: 100%;
@@ -130,29 +138,45 @@ section#sesto-diverse-colonn > aside:nth-child(1n) {
     height: 95%;
     
     background-color: #f08080;
+    border: Dashed;
 }
 section#sesto-diverse-colonn > aside:nth-child(2n) {
     width: 10%;
     height: 95%;
    
     background-color: #20b2aa;
+    border: Dashed;
 }
 section#sesto-diverse-colonn > aside:nth-child(3n) {
     width: 10%;
     height: 95%;
     
     background-color: #20b2aa;
+    border: Dashed;
 }
 section#sesto-diverse-colonn > aside:nth-child(4n) {
     width: 10%;
     height: 95%;
     
     background-color: #20b2aa;
+    border: Dashed;
 }
 section#sesto-diverse-colonn > aside:nth-child(5n){
     width: 10%;
     height: 95%;
     
     background-color: #20b2aa;
+    border: Dashed;
 }
+
+section#piccola-colonn{
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #7fffd4;
+    
+    
+}
+
 
