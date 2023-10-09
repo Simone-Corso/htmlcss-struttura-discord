@@ -117,7 +117,7 @@ section#sesto-diverse-colonn > *{
 }
 
 section#sesto-diverse-colonn{
-    height: 1000px;
+    height: 600px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -126,28 +126,33 @@ section#sesto-diverse-colonn{
 }
 
 section#sesto-diverse-colonn > aside:nth-child(1n) {
-    width: 60%;
-    height: 60%;
+    width: 20%;
+    height: 95%;
+    
     background-color: #004f00;
 }
 section#sesto-diverse-colonn > aside:nth-child(2n) {
-    width: 25%;
-    height: 60%;
-    background-color: #79c379;
+    width: 10%;
+    height: 95%;
+   
+    background-color: #20b2aa;
 }
 section#sesto-diverse-colonn > aside:nth-child(3n) {
-    width: 30%;
-    height: 60%;
-    background-color: #083f08;
+    width: 10%;
+    height: 95%;
+    
+    background-color: #20b2aa;
 }
 section#sesto-diverse-colonn > aside:nth-child(4n) {
-    width: 30%;
-    height: 60%;
-    background-color: #083f08;
+    width: 10%;
+    height: 95%;
+    
+    background-color: #20b2aa;
 }
 section#sesto-diverse-colonn > aside:nth-child(5n){
-    width: 30%;
-    height: 60%;
-    background-color: #083f08;
+    width: 10%;
+    height: 95%;
+    
+    background-color: #20b2aa;
 }
 
