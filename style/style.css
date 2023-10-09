@@ -28,6 +28,11 @@ section#due-colonn{
     align-items: center;
     justify-content: center;
 }
+section#due-colonn > section {
+    width: 50%;
+    height: 80%;
+    background-color: #ee82ee;
+}
 
 
 
