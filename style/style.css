@@ -111,3 +111,43 @@ section#quinto-colonn > aside:first-child {
     height: 90%;
     background-color: #228b22;
 }
+section#sesto-diverse-colonn > *{
+    height: 100%;
+
+}
+
+section#sesto-diverse-colonn{
+    height: 1000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #d3d3d3;
+    
+}
+
+section#sesto-diverse-colonn > aside:nth-child(1n) {
+    width: 60%;
+    height: 60%;
+    background-color: #004f00;
+}
+section#sesto-diverse-colonn > aside:nth-child(2n) {
+    width: 25%;
+    height: 60%;
+    background-color: #79c379;
+}
+section#sesto-diverse-colonn > aside:nth-child(3n) {
+    width: 30%;
+    height: 60%;
+    background-color: #083f08;
+}
+section#sesto-diverse-colonn > aside:nth-child(4n) {
+    width: 30%;
+    height: 60%;
+    background-color: #083f08;
+}
+section#sesto-diverse-colonn > aside:nth-child(5n){
+    width: 30%;
+    height: 60%;
+    background-color: #083f08;
+}
+
