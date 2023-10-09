@@ -31,11 +31,16 @@ section#due-colonn{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: red;
+    
 }
 
-section#due-colonn > aside{
-    width: 50%;
+section#due-colonn > aside:first-child {
+    width: 40%;
     height: 60%;
-    background-color: orange;
+    background-color: #1e90ff;
+}
+section#due-colonn > aside:last-child {
+    width: 20%;
+    height: 60%;
+    background-color: #ffc0cb;
 }
