@@ -7,7 +7,6 @@ section#mono-colonn > *{
     height: 100%
 }
 
-
 section#mono-colonn{
     height: 600px;
     background-color: #00008b;
@@ -15,7 +14,7 @@ section#mono-colonn{
     align-items: center;
     justify-content: center;
 }
-section#mono-colonn > section {
+section#mono-colonn > aside {
     width: 50%;
     height: 80%;
     background-color: #ee82ee;
@@ -23,23 +22,30 @@ section#mono-colonn > section {
 
 section#due-colonn{
     height: 600px;
-    background-color: white;
+    background-color: red;
     display: flex;
     align-items: center;
     justify-content: center;
+
 }
 section#due-colonn > aside {
-    width: 70%;
+    width: 50%;
     height: 80%;
-    background-color: #1e90ff;
+    background-color: #92fb00;
 }
-section#due-colonn > section {
-    width: 30%;
+section#tre-colonn{
+    height: 600px;
+    background-color: green;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+section#tre-colonn > aside {
+    width: 50%;
     height: 80%;
-    background-color: #ffc0cb;
+    background-color: #3700ff;
 }
-
-
 
 
 
