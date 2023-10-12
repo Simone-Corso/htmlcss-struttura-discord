@@ -7,6 +7,20 @@
 section#mono-colonn > *{
     height: 100%
 }
+.container{
+    width: 80%;
+    margin: auto;
+}
+
+header{
+    background-color: #acd7e5;
+    padding: .25rem 0;
+}
+header nav{
+    height: 50px;
+    background-color: orange;
+
+}
 
 section#mono-colonn{
     height: 600px;
