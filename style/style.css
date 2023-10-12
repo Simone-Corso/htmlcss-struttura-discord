@@ -10,6 +10,16 @@ section#mono-colonn > *{
 .container{
     width: 65%;
     margin: auto;
+    display: flex;
+}
+menu{
+    display: flex;
+    justify-content: space-around;
+    
+}
+li,ul{
+    list-style-type: none;
+    display: flex;
 }
 section.navigation{
     padding: .8rem 0;
@@ -24,6 +34,17 @@ header nav{
     background-color: orange;
     border: 2px dashed black;
 
+}
+section.navigation div.brand,
+section.navigation div.login{
+    width: 20%;
+}
+section.navigation div.login{
+    
+}
+
+section.navigation nav{
+    width: 60%;
 }
 
 section#mono-colonn{
@@ -189,12 +210,13 @@ section#sesto-diverse-colonn > aside:nth-child(5n){
 
 section#piccola-colonn{
     height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 65%;
+    margin: auto;
     background-color: #7fffd4;
-    
-    
-}
+    }
+
+    footer{
+        background-color: #23272A;
+    }
 
 
